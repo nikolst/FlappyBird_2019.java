@@ -1,6 +1,6 @@
 # FlappyBird_2019.java :hatched_chick:
 
-JavaFX application that represents the FlappyBird Game. 
+Java Swing application that represents the FlappyBird Game. 
 
 <img src="https://github.com/nikolst/FlappyBird_2019.java/blob/master/Screenshot%202022-03-13%20at%2011.08.58.png" width="400" height="300">
 
